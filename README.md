@@ -1,2 +1,2 @@
 # Maths-Website
-This is a math website.
+This is a maths website which teach you math.
